@@ -21,7 +21,7 @@
 	//null
 	//undefined //error (undefined is an error is javascript)
 
-//variables 
+//VARIABLES
 
 //var myVariable;			//declared variable
 //	myVariable = 100;	//assigned value to variable
@@ -31,5 +31,17 @@
 
 //var num = 8;
 
-var firstName = "Darrin";
-var lastName =	"Webster";
+//var firstName = "Darrin";
+//var lastName =	"Webster";
+
+//DOT NOTATION
+//document.write.();
+//console.log();
+
+//alert("This creates a popup");
+//prompt("This is a prompt. How are you today")
+
+// var firstName = prompt("What is your first name?");
+// var lastName = prompt("what is your last last name?");
+
+// document.write("Hello, " + firstName + " " + lastName +"!");
