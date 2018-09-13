@@ -1,6 +1,6 @@
 //console.log("connected");
 
-//Primitive data types
+//PRIMITIVE DATA TYPES
 
 //1. NUMBERS
 //	8
@@ -45,3 +45,21 @@
 // var lastName = prompt("what is your last last name?");
 
 // document.write("Hello, " + firstName + " " + lastName +"!");
+
+// COMPARISON OPERATORS (will always evealuate to true or false)
+
+// <
+// <=
+// >=
+// ==
+// ===
+// !=
+// !==
+
+
+// if (4 < 3) {
+// 	console.log("if statement ran") //if true
+// } else {
+// 	console.log("else statement ran") //if false
+// }
+
